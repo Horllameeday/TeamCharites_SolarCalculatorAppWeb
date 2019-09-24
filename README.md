@@ -1,1 +1,1 @@
-# TeamCharites_SolarCalculaorAppWeb
+# TeamCharites_SolarCalculatorAppWeb
